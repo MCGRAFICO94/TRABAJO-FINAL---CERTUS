@@ -1,0 +1,91 @@
+
+#chatWhatsApp{
+    width: 64px;
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+}
+
+/* HEADER */
+
+header{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+header > div > img {
+   width: 42%;
+}
+
+/* BARRA DE NAVEGACIÓN */
+
+
+div > ul > li{
+    box-shadow: 0 5px 6px -3px rgba(207, 197, 197, 0.2);/*sombra*/
+}
+
+/* CARRITO */
+
+.text-modal-p{
+    color: #ccc;
+    font-weight: 600;
+    text-align: center;
+    font-size: 1.4em;
+}
+
+#carritoProductos{
+    width: 100%; 
+    vertical-align: middle;
+}
+
+#imageCarritoVacio{
+    width: 60%;
+}
+
+#ventanaCarrito span {
+    font-size: 1em;
+}
+
+#ventanaCarrito .precioDescuento, #ventanaCarrito .precioFinal{
+    font-size: 1em;
+    text-align: right;
+}
+
+/* LE PUSE COLOR BLANCO PARA QUE SE MIMETICE CON EL FONDO DEL CATALOGO */
+section{
+    background-color: #ffffff;
+}
+
+/* ARTICULOS */
+article {
+    margin-left: 2.5em;
+    margin-bottom: 1.8em;
+}
+
+h4{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+article > picture > img {
+    max-width: 90% !important;
+    margin-bottom: 1em;
+}
+
+/* PRECIOS */
+.precioOriginal {
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-bottom: 0px;
+    color:#29292c;
+    text-decoration: line-through;
+}
+.precioDescuento {
+    font-size: 1.5em;
+    color: black;
+    font-weight: bold;
+}
+.precioFinal {
+    font-size: 2em;
+    color: #9c0000;
+    font-weight: bold;
+}

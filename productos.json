@@ -1,0 +1,98 @@
+﻿[
+    {
+        "id":1,
+        "sku": "TP614EL1AHUOLLPE",
+        "name": "Router Inalámbrico N a 450 Mbps TL-WR940N - Tplink",
+        "price": "129",
+        "offer": "0.15",
+        "image": "TP614EL1AHUOLLPE.webp"
+    },
+    {
+        "id":2,
+        "sku": "LE060EL0HR4G9LPE",
+        "name": "Laptop Lenovo IdeaPad 5 15.6\" Full HD AMD Ryzen 7 8GB 512GB SSD",
+        "price": "3899",
+        "offer": "0.41",
+        "image": "LE060EL0HR4G9LPE.webp"
+    },
+    {
+        "id":3,
+        "sku": "EP057EL128KOULPE",
+        "name": "Impresora Multifuncional Epson EcoTank L3250 Wi-fi USB",
+        "price": "1150",
+        "offer": "0.30",
+        "image": "EP057EL128KOULPE.webp"
+    },
+    {
+        "id":4,
+        "sku": "OE991EL0U4PXVLPE",
+        "name": "TECLADO GAMER RGB Combo 2 en 1 , Teclado + mouse. TF230 - TWOLF",
+        "price": "120",
+        "offer": "0.66",
+        "image": "OE991EL0U4PXVLPE.webp"
+    },
+    {
+        "id":5,
+        "sku": "XP799EL166UO8LPE",
+        "name": "Impresora Ticketera Termica USB LAN 80mm Tickets Facturacion",
+        "price": "435",
+        "offer": "0.19",
+        "image": "XP799EL166UO8LPE.webp"
+    },
+    {
+        "id":6,
+        "sku": "XP764EL0DGME1LPE",
+        "name": "XP-PEN Star 06 Inalámbrica Tableta Gráfica 10x6 Pulgadas",
+        "price": "449",
+        "offer": "0.32",
+        "image": "XP764EL0DGME1LPE.webp"
+    },
+    {
+        "id":7,
+        "sku": "XP764EL0C62E9LPE",
+        "name": "XP-PEN Artist 12 2.ª generación Tableta Gráfica 12x6 Pulgadas",
+        "price": "1699",
+        "offer": "0.47",
+        "image": "XP764EL0C62E9LPE.webp"
+    },
+    {
+        "id":8,
+        "sku": "XI061EL17ND2HLPE",
+        "name": "Repetidor Wifi Xiaomi Range Extender AC1200",
+        "price": "189",
+        "offer": "0.52",
+        "image": "XI061EL17ND2HLPE.webp"
+    },
+    {
+        "id":8,
+        "sku": "UB801EL1K9UCVLPE",
+        "name": "Silla Gamer Blazze Pro Con Masajeador Lumbar - Naranja",
+        "price": "999",
+        "offer": "0.62",
+        "image": "UB801EL1K9UCVLPE.webp"
+    },
+    {
+        "id":9,
+        "sku": "XI061EL07IPJILPE",
+        "name": "Xiaomi Camara Web Full Hd 1080p 30fps Con Microfono Imilab",
+        "price": "220",
+        "offer": "0.50",
+        "image": "XI061EL07IPJILPE.webp"
+    },
+    {
+        "id":10,
+        "sku": "VS653EL1LQW0VLPE",
+        "name": "Audífonos Gamer Kuiper Vsg Multiplataforma Ps4 Xbox Pc-Negro",
+        "price": "199",
+        "offer": "0.50",
+        "image": "VS653EL1LQW0VLPE.webp"
+    },
+    {
+        "id":11,
+        "sku": "VI068EL0G65WJLPE",
+        "name": "Monitor ViewSonic 19 VA1903H LED TN HD",
+        "price": "480",
+        "offer": "0.37",
+        "image": "VI068EL0G65WJLPE.webp"
+    }
+]
